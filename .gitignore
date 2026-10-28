@@ -1,0 +1,37 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.sqlite3
+
+# Environment / IDE
+.env
+*.env
+*.swp
+*.swo
+.vscode/
+.idea/
+*.log
+.run/
+
+# Django stuff
+/staticfiles/
+media/
+db.sqlite3
+
+# Byte-compiled / distribution
+*.egg
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+*.iml
+
+# report
+*_report.pdf
